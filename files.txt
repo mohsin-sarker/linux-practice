@@ -1,0 +1,5 @@
+README.md
+example_text.txt
+files.txt
+read_example_text.sh
+run_all.sh

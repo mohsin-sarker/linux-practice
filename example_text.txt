@@ -1,0 +1,2 @@
+This is bash text.
+More text is added.
